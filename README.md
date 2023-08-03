@@ -1,2 +1,2 @@
 # HPCVTG
-The official code for Toward Human Perception-Centric Video Thumbnail Generation (ACM MM'23)
+The official code for Toward Human Perception-Centric Video Thumbnail Generation (ACM MM'23), which will be released soon...
